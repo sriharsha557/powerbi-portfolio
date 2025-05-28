@@ -25,7 +25,7 @@ Welcome to my comprehensive Power BI portfolio showcasing expertise in business 
 ### 1. 👥 HR Analysis Dashboard
 *Human Resources Analytics & Workforce Intelligence*
 
-![HR Dashboard](./hr-dashboard.png)
+![HR Dashboard](./pictures/hr-dashboard.png)
 
 #### Overview
 Comprehensive human resources analytics dashboard providing insights into workforce demographics, employee separations, new hires, and tenure analysis across different regions and age groups.
