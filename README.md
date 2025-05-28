@@ -25,7 +25,7 @@ Welcome to my comprehensive Power BI portfolio showcasing expertise in business 
 ### 1. 👥 HR Analysis Dashboard
 *Human Resources Analytics & Workforce Intelligence*
 
-![HR Dashboard](./images/hr-dashboard.png)
+![HR Dashboard](./hr-dashboard.png)
 
 #### Overview
 Comprehensive human resources analytics dashboard providing insights into workforce demographics, employee separations, new hires, and tenure analysis across different regions and age groups.
@@ -54,7 +54,7 @@ Comprehensive human resources analytics dashboard providing insights into workfo
 ### 2. 💰 Sales Analysis Report
 *Revenue Analytics & Performance Tracking*
 
-![Sales Dashboard](./images/sales-dashboard.png)
+![Sales Dashboard](./sales-dashboard.png)
 
 #### Overview
 Microsoft sample data-based sales dashboard featuring comprehensive revenue analysis, category performance, product insights, and shipping analytics with impressive growth tracking.
@@ -83,7 +83,7 @@ Microsoft sample data-based sales dashboard featuring comprehensive revenue anal
 ### 3. 🏭 Manufacturing Plants Report
 *Plant Performance & Sales Achievement Analytics*
 
-![Manufacturing Dashboard](./images/manufacturing-dashboard.png)
+![Manufacturing Dashboard](./manufacturing-dashboard.png)
 
 #### Overview
 Plant-wise sales achievement analysis for manufacturing operations, showcasing performance metrics across 11 different plants with comprehensive brand analysis and filtering capabilities.
@@ -112,7 +112,7 @@ Plant-wise sales achievement analysis for manufacturing operations, showcasing p
 ### 4. 🎬 Netflix Analytics Dashboard
 *Entertainment Industry Content Analysis*
 
-![Netflix Dashboard](./images/netflix-dashboard.png)
+![Netflix Dashboard](./netflix-dashboard.png)
 
 #### Overview
 Entertainment industry analytics showcasing Netflix content analysis with runtime tracking, genre distribution, content evolution timeline, and global subscriber insights with geographical mapping.
@@ -141,7 +141,7 @@ Entertainment industry analytics showcasing Netflix content analysis with runtim
 ### 5. 📦 Product Returns Analysis
 *Returns Management & Quality Control Dashboard*
 
-![Returns Dashboard](./images/returns-dashboard.png)
+![Returns Dashboard](./returns-dashboard.png)
 
 #### Overview
 Comprehensive returns management dashboard analyzing return patterns by product form, brand performance, regional distribution, and pharmaceutical product categories with detailed breakdowns.
@@ -170,7 +170,7 @@ Comprehensive returns management dashboard analyzing return patterns by product 
 ### 6. 🚚 Supply Chain Report
 *Operational Efficiency & Cost Analysis*
 
-![Supply Chain Dashboard](./images/supply-chain-dashboard.png)
+![Supply Chain Dashboard](./supply-chain-dashboard.png)
 
 #### Overview
 Advanced supply chain analytics dashboard featuring comprehensive cost analysis, operational efficiency metrics, productivity tracking, and division-wise performance indicators.
